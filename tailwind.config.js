@@ -137,10 +137,10 @@ module.exports = {
       "image-rotate": "image-rotate 1400ms ease forwards",
       "image-glow": "image-glow 4100ms 600ms ease-out forwards",
       "sketch-lines": "sketch-lines 1200ms ease-out forwards",
-      "glow-lines-horizontal":
-        "glow-lines-horizontal var(--animation-duration) ease-in forwards",
-      "glow-lines-vertical":
-        "glow-lines-vertical var(--animation-duration) ease-in forwards",
+      "glow-line-horizontal":
+        "glow-line-horizontal var(--animation-duration) ease-in forwards",
+      "glow-line-vertical":
+        "glow-line-vertical var(--animation-duration) ease-in forwards",
     },
   },
   plugins: [],
