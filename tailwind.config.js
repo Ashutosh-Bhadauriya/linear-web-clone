@@ -46,6 +46,8 @@ module.exports = {
       10: "4rem",
       11: "4.4rem",
       12: "4.8rem",
+      13: "5.2rem",
+      14: "5.6rem",
       "navigation-height": "var(--navigation-height)",
     },
     backgroundImage: {
@@ -59,6 +61,10 @@ module.exports = {
         "conic-gradient(from 230.29deg at 51.63% 52.16%, rgb(36, 0, 255) 0deg, rgb(0, 135, 255) 67.5deg, rgb(108, 39, 157) 198.75deg, rgb(24, 38, 163) 251.25deg, rgb(54, 103, 196) 301.88deg, rgb(105, 30, 255) 360deg);",
       "glow-lines":
         "linear-gradient(var(--direction),#9d9bf2 0.43%,#7877c6 14.11%,rgba(120,119,198,0) 62.95%)",
+      "radial-faded":
+        "radial-gradient(circle at bottom center,var(--color),transparent 70%);",
+      "glass-gradient":
+        "linear-gradient(rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 0.05) 100%);",
     },
     boxShadow: {
       primary: "rgb(80 63 205 / 50%) 0px 1px 40px",
