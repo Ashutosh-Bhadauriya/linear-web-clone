@@ -64,9 +64,8 @@ export default function Home() {
       >
         <StarsIllustration />
       </div>
-      <Container>
-        <UnlikeAnyToolSection />
-      </Container>
+
+      <UnlikeAnyToolSection />
     </Layout>
   );
 }
